@@ -1,0 +1,107 @@
+import jwt_decode from 'jwt-decode'
+
+Haritha:- Part 14---->
+
+
+
+
+hashan
+499ifWdlEy6HYLxh
+
+
+__Rusiru Abhishek__
+
+npm init
+npm install express mongoose dotenv cors nodemon
+
+ npm install @babel/core @babel/node --save-dev
+(yarn add -D @babel/core @babel/node)
+
+npx create-react-app frontend
+
+
+
+__Haritha Weerathunga__
+
+npm init -y
+npm i bcrypt body-parser cors express express-fileupload mongodb mongoose nodemon
+npm i jsonwebtoken
+
+npm i axios express-fileupload jwt-decode prop-types react-dom react-router-dom
+
+
+__TechWithGeorge__
+
+npm init -y
+npm i express nodemon cors mongoose body-parser
+
+frontend:
+	npm create-react-app frontend
+	
+	npm install react-router-dom
+	
+Consuming REST APIs in a React Application: Popular method:-
+	Axios
+		npm install axios
+
+
+Other: 
+	npm install html-pdf    ------ Backend
+	npm install file-saver  ------ Frontend
+
+
+__Coding in Flow__
+
+npm install --save-dev typescript
+npm install -g npm@9.2.0
+npm install express
+npm install --save-dev nodemon
+
+npx tsc --init     (To use TypeScript)
+npm install --save-dev @types/express
+
+npx i -D eslint
+npx eslint --init
+
+npm install mongodb mongoose
+
+npm i envalid
+
+
+
+__Coding With Dawid__
+
+yarn create vite
+			 React, JavaScript
+yarn
+
+
+
+
+My Installations HW:
+	npm init -y
+	npm i bcrypt body-parser cors express express-fileupload mongodb mongoose nodemon dotenv
+	npm i jsonwebtoken
+	
+	//FrontEnd
+	npm i axios express-fileupload jwt-decode prop-types react-dom react-router-dom
+
+	npx create-react-app frontend
+
+
+npm i axios@1.2.0-alpha.1
+
+
+
+
+My Installations HW:
+	npm install -g npm@9.2.0
+	npm install express
+	npm install --save-dev nodemon
+	npm install mongodb mongoose
+	npm install dotenv
+	npm install cors
+bcryp
+joi
+jspdf
+auto-table
